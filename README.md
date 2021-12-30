@@ -1,4 +1,4 @@
-#code-lang-detector
+# code-lang-detector
 
 The application recognizes the programming language used from a piece of code. Recognized languages: PHP and JavaScript
 
