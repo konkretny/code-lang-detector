@@ -1,0 +1,13 @@
+{
+  "name": "code-lang-detector",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Marcin Romanowicz",
+  "license": "MIT",
+  "dependencies": {
+    "brain.js": "^2.0.0-beta.4"
+  },
+  "scripts":{
+    "start":"node index.js"
+  }
+}
